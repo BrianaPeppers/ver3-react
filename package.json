@@ -20,7 +20,7 @@
     "react-router-dom": "^5.1.2",
     "react-router-scroll": "^0.4.4",
     "react-router-scroll-top": "^0.2.1",
-    "react-scripts": "^3.3.0",
+    "react-scripts": "^5.0.1",
     "redux": "^4.0.4",
     "semantic-ui-react": "^0.88.2",
     "top": "^0.2.3",
